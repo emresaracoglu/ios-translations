@@ -142,6 +142,8 @@
 "_upload_camera_save_album_footer_" = "After the automatic sending of the photo or video, a copy is saved in the photo album : _brand_ (does not require more space in the camera roll)";
 "_upload_camera_fullphotos_"        = "Upload all camera photos/videos";
 "_upload_camera_fullphotos_footer_" = "Select the options above before uploading";
+"_upload_camera_create_subfolder_" = "Use subfolders";
+"_upload_camera_create_subfolder_footer_" = "Store in subfolders based on year and month";
 
 // Manage Photos
 
@@ -213,6 +215,8 @@
 "_processing_send_camera_upload_"           = "Uploading camera photo ...";
 "_select_only_localfile_"                   = "File not downloaded yet";
 "_tutorial_photo_view_"                     = "No photos or videos loaded";
+"_create_full_upload_"                      = "Creating archive ...";
+"_error_createsubfolders_upload_"           = "Error creating subfolders";
 
 // Template
 
