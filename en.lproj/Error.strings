@@ -14,6 +14,7 @@
 "_time_out_"                            = "Timeout, try again";
 "_unknow_response_server_"              = "Unexpected response from server";
 "_user_autentication_required_"         = "User autentication required";
+"_file_directory_locked_"               = "File or Directory locked";
 
 // DropBox
 
