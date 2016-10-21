@@ -449,6 +449,10 @@
 
 "_no_transfer_"                     = "No transfer";
 
+// Synchronization
+
+"_create_synchronization_"          = "Create synchronization";
+
 // -----------------------------------------------------------------------------------------------------------
 
 "Done"                          = "Done";
