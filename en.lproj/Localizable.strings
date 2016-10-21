@@ -352,6 +352,8 @@
 "_save_selected_files_"         = "Save images and videos to Photo Album";
 "_file_not_saved_cameraroll_"   = "Error, file not saved to Photo Album";
 "_file_saved_cameraroll_"       = "File saved to Photo Album";
+"_directory_on_top_yes_"        = "✓ Directory on top";
+"_directory_on_top_no_"         = "Directory on top";
 
 "audio"                         = "AUDIO";
 "compress"                      = "COMPRESS";
