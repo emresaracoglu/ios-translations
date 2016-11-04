@@ -10,6 +10,7 @@
 
 "_cancel_"                  = "Cancel";
 "_upload_file_"             = "Upload file";
+"_download_file_"           = "Download file";
 "_upload_encrypted_file_"   = "Upload encrypted file";
 "_loading_"                 = "Loading";
 "_loading_num_"             = "Loading file %i";
