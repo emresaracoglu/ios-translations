@@ -15,6 +15,7 @@
 "_unknow_response_server_"              = "Unexpected response from server";
 "_user_autentication_required_"         = "User autentication required";
 "_file_directory_locked_"               = "File or directory locked";
+"_ssl_certificate_untrusted_"           = "The certificate for this server is invalid";
 
 // DropBox
 
